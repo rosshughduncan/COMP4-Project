@@ -1,6 +1,6 @@
 Hello
 
-This respository contains the project report and code for an algorithmic music composition program, which was created by myself for a Computing A Level extended project.
+This respository contains the project report and code for an algorithmic music composition program called Project ProNote, which was created by myself for a Computing A Level extended project.
 It was created using C#.net in Visual Studio 2012.
 
 It achieved very high marks and was worked on between November 2015 and March 2016.
